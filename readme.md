@@ -1,5 +1,7 @@
 笔者对《浏览器工作原理》一文进行了翻译。该仓库为翻译后的文档。英文原文链接如下：<http://taligarsiel.com/Projects/howbrowserswork1.htm>
 
+pdf版本见仓库中的pdf文件(附有业内跳转便于阅读)。
+
 主要内容如下：
 
 <hr>
